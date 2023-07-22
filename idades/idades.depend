@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1690019940 source:c:\temp\ws-cb\c++\idades\main.cpp
+	<iostream>
+	<limits>
+	<climits>
+	<iomanip>
+
